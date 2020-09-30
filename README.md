@@ -1,4 +1,4 @@
-SensorTrafficGenerator
+SensorTrafficGenerator - An Amazing File
 ======================
 
 The code generates random traffic for an IoT simulator.
